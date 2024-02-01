@@ -3,7 +3,7 @@ import HelloWorld from './components/HelloWorld.vue';
 </script>
 
 <template>
-  <div class="w-full">Culo</div>
+  <div class="w-full flex justify-center">Culo</div>
 </template>
 
 <style></style>
